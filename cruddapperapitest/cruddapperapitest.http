@@ -1,0 +1,6 @@
+@cruddapperapitest_HostAddress = http://localhost:5223
+
+GET {{cruddapperapitest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
